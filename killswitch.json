@@ -1,6 +1,6 @@
 {
   "disabled": false,
   "min_version": 0,
-  "blocked": [436],
+  "blocked": [],
   "message": "This test build has been retired. Please contact the developer for a current version."
 }
